@@ -2,6 +2,10 @@ body {
     font-family: Arial, sans-serif;
 }
 
+.bg-light {
+    background-color: #62a8ee !important;
+}
+
 h2 {
     color: #007bff; /* Bootstrap primary color */
 }
