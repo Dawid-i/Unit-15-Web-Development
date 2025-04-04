@@ -1,0 +1,17 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+.bg-light {
+    background-color: #5F7F64 !important;
+}
+
+h2 {
+    color: #000000; /* Bootstrap primary color */
+}
+
+footer {
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
